@@ -33,7 +33,7 @@
 ```
 U+73 U+79 U+73 U+74 U+33 U+6D U+73 U+7D
 ```
-*Unescape-символы Юникода*
+*Символы Юникода*
 
 Далее переходим на [CyberChef](https://gchq.github.io/CyberChef/)
 
@@ -43,6 +43,6 @@ U+73 U+79 U+73 U+74 U+33 U+6D U+73 U+7D
 
 Для десятичной системы используем *From Decimal*
 
-Для Unescape-символов юникода используем ресурс [compart](https://www.compart.com/en/unicode/)
+Для символов юникода используем ресурс [compart](https://www.compart.com/en/unicode/)
 
 Собираем флаг в одно целое и сдаём!
