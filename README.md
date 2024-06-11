@@ -1,6 +1,6 @@
 "# writeups" 
 
-# codeby games writeups
+# Codeby games writeups
 https://codeby.games/
 
 * Криптография
