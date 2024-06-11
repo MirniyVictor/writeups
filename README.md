@@ -10,6 +10,8 @@ https://codeby.games/
     + [Кракозябры](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Krakoziebras)
     + [Родственники](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Relatives)
     + [Подозреваемый](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Suspect)
+* Стеганография
+    + [Шерлок](https://github.com/MirniyVictor/writeups/tree/main/codeby/Stegano/Sherlock)
  
 # TaipanByte CTF writeups
 https://ctf.taipanbyte.ru/
