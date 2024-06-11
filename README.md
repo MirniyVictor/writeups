@@ -1,6 +1,6 @@
 "# writeups" 
 
-# codeby.games writeups
+# codeby games writeups
 https://codeby.games/
 
 * Криптография
@@ -10,3 +10,9 @@ https://codeby.games/
     + [Кракозябры](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Krakoziebras)
     + [Родственники](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Relatives)
     + [Подозреваемый](https://github.com/MirniyVictor/writeups/tree/main/codeby/Crypto/Suspect)
+ 
+# TaipanByte CTF writeups
+https://ctf.taipanbyte.ru/
+
+* Криптография
+    + [Это база](https://github.com/MirniyVictor/writeups/tree/main/taipanbyte/Crypto/This%20is%20the%20base)
