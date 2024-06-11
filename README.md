@@ -16,3 +16,4 @@ https://ctf.taipanbyte.ru/
 
 * Криптография
     + [Это база](https://github.com/MirniyVictor/writeups/tree/main/taipanbyte/Crypto/This%20is%20the%20base)
+    + [Mobile](https://github.com/MirniyVictor/writeups/tree/main/taipanbyte/Crypto/Mobile)
