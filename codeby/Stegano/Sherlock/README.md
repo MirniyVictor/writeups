@@ -8,6 +8,6 @@
 ## Решение
 
 В прикрепленном к заданию файле видим картинку sherlock.png.
-Открываем ресурс [aperisolve](https://www.aperisolve.com/)
+Открываем ресурс [aperisolve](https://www.aperisolve.com/) Выбераем нашу картинку sherlock.png, смотрим результат.
 
 Далее сдаём флаг!
